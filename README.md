@@ -97,7 +97,7 @@ CSV Data Processing
 
 View the live dashboard on Tableau Public:
 
-[ADD_TABLEAU_PUBLIC_LINK_HERE](https://public.tableau.com/app/profile/jonathan.kennedy6398/viz/AustinAirbnbMarketOverview_17731499621220/Dashboard1)
+[TABLEAU_PUBLIC_LINK](https://public.tableau.com/app/profile/jonathan.kennedy6398/viz/AustinAirbnbMarketOverview_17731499621220/Dashboard1)
 
 ---
 
